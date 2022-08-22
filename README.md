@@ -4,9 +4,9 @@ Production Web App - [OpenCare - 147.182.185.143](http://147.182.185.143/)
 
 **Source**
 
-Front-end (this repo) - [https://github.com/danielphan-dp/opencare](`https://github.com/danielphan-dp/opencare`)
+Front-end (this repo) - [https://github.com/danielphan-dp/opencare](https://github.com/danielphan-dp/opencare)
 
-Back-end - [https://github.com/danielphan-dp/opencare-be](`https://github.com/danielphan-dp/opencare-be`)
+Back-end - [https://github.com/danielphan-dp/opencare-be](https://github.com/danielphan-dp/opencare-be)
 
 **Instructions**
 
