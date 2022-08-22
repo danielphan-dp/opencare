@@ -1,6 +1,11 @@
 ### OpenCare (Front-end)
 
+Front-end (this repo): `https://github.com/danielphan-dp/opencare`
+
+Back-end: `https://github.com/danielphan-dp/opencare-be`
+
 **Instructions**
+
 1. Clone the repo (or download source code): `git clone <repo-url>`
 2. Change directory to repo's root directory: `cd <path-to-root-of-repo>`
 3. Create `.env.local` file in root directory and add the following content:
